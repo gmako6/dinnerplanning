@@ -1,7 +1,9 @@
-#Problem Description
+# Problem Description
+
 Sick of the dinner planning struggle? Mmmm 🤌 is here to save the day! We are looking for a skilled developer to build an adaptive website that generates personalized monthly recipe plans. With the help of ChatGPT and Dall-e, users can input their cravings, cooking skills, dietary preferences, and available ingredients to receive a customized meal plan. Our goal is to provide users with a delightful cooking experience while eliminating the hassle of meal planning.
 
-#Solution Overview
+
+# Solution Overview
 
 To meet the requirements outlined in the problem description, I propose the following solution:
 
